@@ -26,10 +26,10 @@ pip install numpy pandas scipy
 
 ## Usage
 
-To use the classifiers, you can call the functions `naive_bayes_classifier` and `fuzzy_classifier` from the `assignment2.py` script.
+To use the classifiers, you can call the functions `naive_bayes_classifier` and `fuzzy_classifier` from the `classifiers.py` script.
 
 ```python
-from assignment2 import naive_bayes_classifier, fuzzy_classifier
+from classifiers import naive_bayes_classifier, fuzzy_classifier
 
 # Load an image from a CSV file
 image_path = 'path/to/image.csv'
