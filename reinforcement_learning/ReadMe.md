@@ -42,7 +42,7 @@ Initially estimate the Q-function as:
 
 ## Implementation Details
 
-This implementation contains a file named `assignment3.py` with a class named `TDQLearning`.
+This implementation contains a file named `TDQLearning.py` with a class named `TDQLearning`.
 
 The `TDQLearning` class has three member functions: `__init__`, `qvalue`, and `policy`.
 
